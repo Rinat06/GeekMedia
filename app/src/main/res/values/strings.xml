@@ -6,4 +6,7 @@
     <string name="search_menu">Search Menu</string>
     <string name="favorites">Favorites</string>
     <string name="profile">Profile</string>
+    <string name="come_in">Войти</string>
+    <string name="name">Гость</string>
+
 </resources>
