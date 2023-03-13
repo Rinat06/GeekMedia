@@ -9,6 +9,7 @@ import androidx.viewbinding.ViewBinding
 
 abstract class BaseFragment<VB: ViewBinding>: Fragment() {
 
+    abstract val companion: Unit
     protected lateinit var binding: VB
     protected abstract fun inflateViewBinding(inflater: LayoutInflater): VB
 

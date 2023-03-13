@@ -8,5 +8,16 @@
     <string name="profile">Profile</string>
     <string name="come_in">Войти</string>
     <string name="name">Гость</string>
+    <string name="news">Предложить нововость</string>
+    <string name="settings">Настройки</string>
+    <string name="notifications">Уведомления</string>
+    <string name="Sound">Звук</string>
+    <string name="Vibration">Вибрация</string>
+    <string name="quiet_mode">Тихий режим</string>
+    <string name="Start">Начало</string>
+    <string name="End">Конец</string>
+    <string name="download">Загрузка изображений</string>
+    <string name="download_text">Отключение позволяет экономить трафик</string>
+    <string name="memory">Управление данными</string>
 
 </resources>

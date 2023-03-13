@@ -78,7 +78,7 @@
         android:layout_marginTop="265dp"
         android:textColor="@color/black"
         android:padding="10dp"
-        android:text="Предоложить новость"
+        android:text="@string/news"
         android:textSize="16sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
